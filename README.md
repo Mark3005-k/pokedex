@@ -4,7 +4,7 @@
 з реального PokeAPI, сторінка деталей і збір власної команди з 6 покемонів.
  
 ## Живе демо
-[pokedex-app.vercel.app](посилання зʼявиться після Кроку 5)
+[https://pokedex-pi-coral.vercel.app/]
  
 ## Технології
 - Vue 3 (Composition API)
